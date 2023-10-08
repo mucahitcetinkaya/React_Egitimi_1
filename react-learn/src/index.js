@@ -5,7 +5,8 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 //import B2D5 from './Ders/B2D5';
 //import B2D6 from './Ders/B2D6';
-import B3D7 from './Ders/B3D7';
+//import B3D7 from './Ders/B3D7';
+import B3D8 from './Ders/B3D8';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -15,7 +16,8 @@ root.render(
   // </React.StrictMode>
   // <B2D5 />
   //<B2D6 />
-  <B3D7 />
+  //<B3D7 />
+  <B3D8 />
 );
 
 // If you want to start measuring performance in your app, pass a function
