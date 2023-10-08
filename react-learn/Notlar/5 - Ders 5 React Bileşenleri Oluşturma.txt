@@ -1,0 +1,18 @@
+Bölüm 2 : React Kurulumu ve Bileşen Oluşturup Kullanma
+
+Ders 5 React Bileşenleri Oluşturma
+
+src App.js e gidelim
+
+index.js den geldik
+
+bizim bir bileşen olusturmamız lazım hepsini app.js e yazamayız 
+
+src içine bir klasör olusturalım 
+
+components
+
+çalıştırmak istersen eğer src içindeki index.js e gir hangisini çalıştırmak istersen onu vermek lazım 
+
+B2D5
+Bölüm 2 Ders 5 demek
