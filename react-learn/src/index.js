@@ -10,7 +10,8 @@ import reportWebVitals from './reportWebVitals';
 //import B3D9 from './Ders/B3D9';
 //import B3D10 from './Ders/B3D10';
 //import B3D11 from './Ders/B3D11';
-import B4D12 from './Ders/B4D12';
+//import B4D12 from './Ders/B4D12';
+import B4D13 from './Ders/B4D13';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -25,7 +26,8 @@ root.render(
   //<B3D9 />
   //<B3D10 />
   //<B3D11 />
-  <B4D12 />
+  //<B4D12 />
+  <B4D13 />
 );
 
 // If you want to start measuring performance in your app, pass a function
