@@ -1,0 +1,33 @@
+Bölüm 2 : React Kurulumu ve Bileşen Oluşturup Kullanma
+
+Ders 4 React Dosya Yapısı
+
+projede olan node_modules klasörü kütüphaneleri içeriyor birsey eklersen veya silersen buraya eklenir veya silinir
+package-lock.json da da ekli olan kutuphaneler yazıyor
+package.json dan silinince veya eklenince kutuphane ekleyip silebilirsin
+
+gitigonore da github a atıldıgında bunların oraya yuklenmez anlamına geliyor
+.gitigonore içinde node_modules klasörü olmaz github a atınca tekrar cekersen eger
+npm i diyip module klasörünü yüklemen lazım
+
+public
+
+index.html var bu bizim calısan html imiz oluyor 
+
+buradaki degişiklik direk ekrana yansıyor
+
+src
+
+app.js de biz değişiklik yapacagız digerleri de uzantılarına bakınca anlasıyor 
+css mesela css kodlarını tutmak için cvs
+
+
+package.json
+
+dependencies de hangi kutuphanelere bagımlı oldugumuzu gösteriyor
+
+scripts altında start var 
+npm start yazınca aslında burası calısıyor
+
+start karsındakini değiştirebilirsin start ile değil baska bişey ile de calıstırmak isteyebilirsin sana kalmıs
+değişiklik yapabilirsin
