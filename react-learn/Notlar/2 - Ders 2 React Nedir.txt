@@ -1,0 +1,10 @@
+Bölüm 2 : React Kurulumu ve Bileşen Oluşturup Kullanma
+
+Ders 2 React Nedir ?
+
+React bir Javascript kütüphanesidir. 
+Web arayüzleri tasarlamaya yarar. 
+Frontend geliştirmek için kullanılan bir kütüphanedir.
+Javascript de yapabildiğiniz her şeyi Reactta da yapabilirsiniz. 
+React daha kolaylaştırıyor.
+React ın en büyük özelliği yeniden kullanılabilir component (bileşen) oluşturabilmektir.
