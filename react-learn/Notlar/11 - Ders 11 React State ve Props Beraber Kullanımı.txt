@@ -1,0 +1,13 @@
+Bölüm 3. React Probs ve State
+
+Ders 11 React State ve Props Beraber Kullanımı
+
+ek not 
+
+yukarıdan asağıya dogru bilgi atabiliyoruz ama
+asagıdan yukarıya atamıyoruz
+yani
+
+HighCompenent in state ini App de degistiremezsin
+
+App in içinden diger tarafa gonderebilirsin ama
