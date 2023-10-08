@@ -1,0 +1,10 @@
+Bölüm 2 : React Kurulumu ve Bileşen Oluşturup Kullanma
+
+Ders 6 Dinamik Değerleri Ekranda Gösterme ve Çağırma
+
+bu derste javascript varriable(değişken) ları nasıl ekranda gösteririz ona bakalım
+
+konuları tek tek bolum acarak ilerliyorum
+ders klasörü içinde 
+B2D6
+bölüm 2 ders 6 demek

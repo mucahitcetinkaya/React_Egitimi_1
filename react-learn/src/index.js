@@ -3,14 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 //import App from './App';
 import reportWebVitals from './reportWebVitals';
-import B2D5 from './Ders/B2D5';
+//import B2D5 from './Ders/B2D5';
+import B2D6 from './Ders/B2D6';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   // <React.StrictMode>
   //   <App />
   // </React.StrictMode>
-  <B2D5 />
+  // <B2D5 />
+  <B2D6 />
 );
 
 // If you want to start measuring performance in your app, pass a function
