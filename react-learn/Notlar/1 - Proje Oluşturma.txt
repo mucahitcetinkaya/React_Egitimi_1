@@ -1,0 +1,24 @@
+Proje Oluşturma
+
+visual studio code lazım 
+node.js lazım
+
+version bakmak istiyorsan eğer
+terminalde 
+node --version 
+yaz
+
+olusturmak istediğin klasörde terminal ac 
+
+npx create-react-app my-first-app bunu yaz
+
+projenin içine gir sağ tık code ile aç
+
+npm start 
+
+yaz calısıyor
+
+projeyi github dan indirirsen eğer çalışması için node_modules klasörünü yüklemen lazım
+bunun için terminal de
+npm i 
+yazmalısın
