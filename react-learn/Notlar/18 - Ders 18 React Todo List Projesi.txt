@@ -1,0 +1,22 @@
+Bölüm 5 : React Todo List Projesi (Tüm Özellikler)
+
+Ders 18 React Todo List Projesi
+
+gerekli işlemleri yapacağız bir de key hatası alıyoruz
+key hatasını çözmek için
+bir kütüphane ekleyelim 
+lodash 
+
+https://lodash.com/
+https://www.npmjs.com/package/lodash
+
+bu ikisini yükle
+npm i -g npm
+npm i --save lodash
+
+Lodash, Javascript programcılarının tekrarlayan işlemleri yapmalarını kolaylaştıran bir yardımcı kütüphanedir. Bu kütüphane, Javascript’in standart işlevlerinin yanı sıra birçok yardımcı fonksiyon sunar. Lodash, verimli bir şekilde çalışmak için optimize edilmiştir ve genellikle yüksek performanslı web uygulamaları oluşturmak için kullanılır.
+
+ayrıntılı bilgi için 
+
+https://netbilio.com/javascript-lodash-nedir-ve-neden-kullanilmalidir/
+
