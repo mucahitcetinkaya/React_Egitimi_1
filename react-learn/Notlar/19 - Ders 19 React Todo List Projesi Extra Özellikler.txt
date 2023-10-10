@@ -1,0 +1,7 @@
+Bölüm 5 : React Todo List Projesi (Tüm Özellikler)
+
+Ders 19 React Todo List Projesi Extra Özellikler
+
+bu derste 18. dersteki todo list i geliştireceğiz
+
+bu derste edit kısmını yaptık checkbox ekledik
