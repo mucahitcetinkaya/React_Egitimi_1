@@ -1,0 +1,28 @@
+Bölüm 6 : React Redux ve React Router
+
+Ders 21 React Redux Nedir ?
+
+https://redux.js.org/
+
+JavaScript uygulamarındaki bazı bilgileri tutabileceğimiz bir containerdır.
+
+Bizim bakacağımız React Redux
+
+https://react-redux.js.org/
+
+zaten biz bileşenlerde bu bilgileri tutabiliyorduk ama 
+redux ın farklı 
+bilgileri bütün projenin kullanabilmesi olabilir
+bu bilgileri props geçmeden LocalStorage e kayıt etmeden kullanmamızı saglıyor
+
+bir componentten diger componente aktarabilmemizi sağlıyor
+
+bunu bir yerde tutuyor isteyen gidip ordan kullanabiliyor
+
+state kullanırsan eger projede yukarıdan asagıya dogru kullanmadıgı halde diger taraflara bu bilgiyi tasıman gerek
+
+redux projenin içinde değil dısında oluyor
+isteyen gidip ordan okuyor
+
+
+
