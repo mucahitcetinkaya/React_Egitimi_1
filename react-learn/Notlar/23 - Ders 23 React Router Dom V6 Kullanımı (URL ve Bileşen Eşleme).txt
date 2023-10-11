@@ -1,0 +1,11 @@
+Bölüm 6 : React Redux ve React Router
+
+Ders 23 React Router Dom V6 Kullanımı (URL ve Bileşen Eşleme)
+
+bu derste url yapısını gorecegız tıklayınca baska sayfaya gitmeyi
+
+bunun için reat-router kütüphanesini kullanacagız
+
+https://www.npmjs.com/package/react-router-dom
+
+npm i react-router-dom

@@ -19,9 +19,11 @@ import reportWebVitals from './reportWebVitals';
 //import B5D18 from './Ders/B5D18';
 //import B5D19 from './Ders/B5D19';
 //import B5D20 from './Ders/B5D20';
-import B6D22 from './Ders/B6D22';
-import { Provider } from 'react-redux';
-import { store } from './components/B6D22/store/store';
+//import B6D22 from './Ders/B6D22';
+//import { Provider } from 'react-redux';
+//import { store } from './components/B6D22/store/store';
+
+import B6D23 from './Ders/B6D23';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -45,9 +47,13 @@ root.render(
   //<B5D18 />
   //<B5D19 />
   //<B5D20 />
-  <Provider store = {store} >
-    <B6D22 />
-  </Provider>
+
+  //<Provider store = {store} >
+  //  <B6D22 />
+  //</Provider>
+
+  <B6D23 />
+
 
 );
 
