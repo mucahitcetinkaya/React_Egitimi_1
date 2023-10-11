@@ -23,7 +23,11 @@ import reportWebVitals from './reportWebVitals';
 //import { Provider } from 'react-redux';
 //import { store } from './components/B6D22/store/store';
 
-import B6D23 from './Ders/B6D23';
+//import B6D23 from './Ders/B6D23';
+
+import B6D24 from './Ders/B6D24';
+import { Provider } from 'react-redux';
+import { store } from './components/B6D24/store/store';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -52,7 +56,12 @@ root.render(
   //  <B6D22 />
   //</Provider>
 
-  <B6D23 />
+  //<B6D23 />
+
+
+  <Provider store={store}>
+    <B6D24 />
+  </Provider>
 
 
 );

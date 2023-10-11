@@ -1,0 +1,21 @@
+Bölüm 6 : React Redux ve React Router
+
+Ders 24 React Profile Projesi
+
+son ders uygulama yapalım
+
+user üye olacak ad soyad parola yazacak bunları kayıt edeceğiz
+
+gereken kütüphaneler
+
+npm i react-router-dom
+
+npm install @reduxjs/toolkit react-redux
+
+bizde yuklu yuklemiyorum tekrar
+
+bir de yeni component olusturunca hızlıca function yazmak için snippet yukleyebilirsin
+rfc kısayolu ile direk yazıyor
+ES7+ React/Redux/React-Native snippets
+
+giriş yapıyor kayıt yapıyor usestate de tutuyor düzenlede duzenliyor

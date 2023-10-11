@@ -12,7 +12,7 @@ https://redux-toolkit.js.org/introduction/getting-started
 
 npm install @reduxjs/toolkit
 
-npm install redux
+npm install react-redux
 
 package.json a bakalım reduxjs/toolkit ve react-redux olmalı yüklendiğini ordan görebiliriz
 
