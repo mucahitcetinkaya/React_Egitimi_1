@@ -1,0 +1,19 @@
+Bölüm 6 : React Redux ve React Router
+
+Ders 22 React Redux ve Redux Toolkit Kullanımı
+
+Redux orneklerini yapacagız
+
+yeni bir ders projesi olusturup redux ekleyelim
+
+redux Toolkit i öğreneceğiz
+
+https://redux-toolkit.js.org/introduction/getting-started
+
+npm install @reduxjs/toolkit
+
+npm install redux
+
+package.json a bakalım reduxjs/toolkit ve react-redux olmalı yüklendiğini ordan görebiliriz
+
+npm install @reduxjs/toolkit react-redux

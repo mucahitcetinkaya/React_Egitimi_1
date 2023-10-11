@@ -18,15 +18,18 @@ import reportWebVitals from './reportWebVitals';
 //import B4D17 from './Ders/B4D17';
 //import B5D18 from './Ders/B5D18';
 //import B5D19 from './Ders/B5D19';
-import B5D20 from './Ders/B5D20';
+//import B5D20 from './Ders/B5D20';
+import B6D22 from './Ders/B6D22';
+import { Provider } from 'react-redux';
+import { store } from './components/B6D22/store/store';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  // <React.StrictMode>
-  //   <App />
-  // </React.StrictMode>
-  // <B2D5 />
+  //<React.StrictMode>
+  //<App />
+  //</React.StrictMode>
+  //<B2D5 />
   //<B2D6 />
   //<B3D7 />
   //<B3D8 />
@@ -40,8 +43,12 @@ root.render(
   //<B4D16 />
   //<B4D17 />
   //<B5D18 />
- // <B5D19 />
-  <B5D20 />
+  //<B5D19 />
+  //<B5D20 />
+  <Provider store = {store} >
+    <B6D22 />
+  </Provider>
+
 );
 
 // If you want to start measuring performance in your app, pass a function
@@ -56,4 +63,20 @@ javascript olarak ilk cagrılan dosya da index.js
 burda da id si root olanı getir demiş 
 root un içine <App/> i cagır demiş 
 notlara gidelim
-*/ 
+*/
+
+/*
+
+B6D22 redux toolkit notları store.js den geldik
+
+hangi anasayfada calısıyorsan eger genelde App.js olur egitim diye ben onu değiştirdim
+calıstıgın yeri <Provider></Provider> ile cevrelemen gerek onu da import ediyor redux uzerınden
+biz burda bir componenti cevrelediğimiz de projedeki app.js uzerınden anlatmam gerekirse
+app.js de yazdıgın componentleri de redux a tanıtmıs oluyorsun
+tekrar tekrar yazmana gerek kalmıyor
+
+burdan da su anda kullandıgımız anasayfamıza gidelim B6D22.js
+
+react-redux un yuklenip yuklenmediğine dikkat et
+
+*/
